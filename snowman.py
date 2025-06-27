@@ -1,9 +1,7 @@
-import random
-import ascii
 import game_logic
 import short_menu
 
-    
+
 if __name__ == "__main__":
     wanna_play = True
     while wanna_play:
